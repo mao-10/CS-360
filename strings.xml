@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Event Tracker</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="signup">Signup</string>
+    <string name="confirm">Confirm Password</string>
+    <string name="oldAccount">Already a user? Login</string>
+    <string name="create">Create an Account</string>
+    <string name="noAccount">Don\'t have an account? Signup</string>
+    <string name="phone">Phone Number</string>
+    <string name="username">Username</string>
+    <string name="feb">February</string>
+    <string name="events">Events</string>
+    <string name="logged_user">User Email: %s</string>
+    <string name="sms_notif_title">SMS Permission Needed</string>
+    <string name="sms_message">The app requires permission to notify you when an event is approaching. You can enable or disable this at anytime. </string>
+    <string name="sms_enable">Enable</string>
+    <string name="sms_disable">Disable</string>
+</resources>
